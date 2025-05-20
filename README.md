@@ -11,6 +11,4 @@ The video in this repository shows the TurtleBot3 running with our implemented c
 
 ## Video
 
-
-https://github.com/user-attachments/assets/e82bbf74-b0e1-413a-aa40-33ac55bdad5a
-
+https://github.com/user-attachments/assets/e9490961-41c2-4cfc-820c-b1ad06a6ca13
